@@ -20,6 +20,7 @@ import java.util.stream.Collectors;
  * Implement in single class. Don't chane constructor and signature method.
  */
 public class DateSorter {
+    //TODO better to use capital character 'r' in this solution
     private final static CharSequence R = "r";
     /**
      * The implementation of this method should sort dates.
